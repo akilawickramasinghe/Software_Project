@@ -1,1 +1,1 @@
-﻿This is Read ME
+Initial Front-End of the Online Tutoring Platform
